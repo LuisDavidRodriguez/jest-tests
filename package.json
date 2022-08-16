@@ -1,0 +1,24 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisDavidRodriguez/jest-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisDavidRodriguez/jest-tests/issues"
+  },
+  "homepage": "https://github.com/LuisDavidRodriguez/jest-tests#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
